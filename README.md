@@ -64,3 +64,9 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
+Run the full project pipeline:
+
+```bash
+python src/main.py
