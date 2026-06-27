@@ -1,2 +1,9 @@
 venv/
 .venv/
+raport.fdb_latexmk
+raport.aux
+raport.fls
+raport.log
+raport.out
+raport.synctex.gz
+/src/__pycache__
